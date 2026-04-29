@@ -10,7 +10,7 @@
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelmaksoudd&show_icons=true&theme=radical&include_all_commits=true&count_private=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelmaksoudd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" />
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelmaksoudd&layout=compact&theme=radical" width="48%" />
 </div>
