@@ -8,11 +8,17 @@
 🤝 Participating in the **Build with AI Masr Edition** initiative!<br/>
 
 
+
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelmaksoudd&show_icons=true&theme=radical&include_all_commits=true&count_private=false" width="48%" />
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelmaksoudd&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelmaksoudd&theme=radical"  alt="GitHub Streak Stats" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelmaksoudd&theme=radical"  alt="GitHub Profile Details" />
+  
+</div>
+
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdelmaksoudd&theme=radical&margin-w=15&no-frame=true" alt="Mohamed's Trophies" />
 </div>
 
 <br>
@@ -34,8 +40,8 @@
 ### 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/abdelmaksoudd/BatBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelmaksoudd&repo=LendMind&theme=radical" width="48%" alt="BatBot Project" />
+  <a href="https://github.com/abdelmaksoudd/LendMind">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelmaksoudd&repo=LendMind&theme=radical" width="48%" alt="LendMind Project" />
   </a>
   <a href="https://github.com/abdelmaksoudd/quiz-platform">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelmaksoudd&repo=quiz-platform&theme=radical" width="48%" alt="quiz-platform" />
